@@ -66,11 +66,35 @@ The Random Forest model outperformed the Decision Tree in all evaluation metrics
 ---
 
 ## **Key Results**
+
+### **Logistic Regression**
+Classification Report: 
+![Logistic Regression Classification Report](logitstic_regression_.PNG)
+
+The classification report above shows that the logistic regression model achieved a precision of 79%, recall of 82%, f1-score of 80% (all weighted averages), and accuracy of 82%. However, if it's most important to predict employees who leave, then the scores are significantly lower.
+
 ### **Model Comparison**
 | Model              | Precision | Recall | F1-Score | Accuracy | AUC-ROC |
 |---------------------|-----------|--------|----------|----------|---------|
 | Decision Tree       | 0.9146    | 0.9169 | 0.9157   | 0.9719   | 0.9698  |
 | Random Forest       | 0.9602    | 0.9156 | 0.9324   | 0.9787   | 0.9804  |
+
+**Observations**:
+
+- Random Forest Model:
+    - Achieved the highest precision (0.9602) and accuracy (0.9787), making it the most effective at correctly identifying both classes.
+  - The AUC-ROC score (0.9804) indicates that the Random Forest model is highly capable of distinguishing between employees likely to leave and those likely to stay.
+    
+- Decision Tree Model:
+    - While performing well, its precision (0.9146) and accuracy (0.9719) are slightly lower than the Random Forest model.
+    - The AUC-ROC score (0.9698) suggests strong performance but falls short of the Random Forest model.
+
+
+
+
+### **Visualizations**
+
+
 
 ### **Insights**
 - Employees in specific departments with high workloads (projects and hours) had higher turnover rates.
