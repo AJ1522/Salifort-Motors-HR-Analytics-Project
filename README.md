@@ -93,6 +93,10 @@ The classification report above shows that the logistic regression model achieve
 
 
 ### **Visualizations**
+**EDA Visualizations**
+
+![boxplot](boxplot_tenure_outliers.png)
+
 
 
 
