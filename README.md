@@ -101,7 +101,11 @@ The classification report above shows that the logistic regression model achieve
 ![projects](number_of_projects.png)
 
 
-
+Employees who left fall into two general categories: dissatisfied employees
+with shorter tenures and very satisfied employees with medium-length tenures.
+Four-year employees who left seem to have an unusually low satisfaction level.
+The longest-tenured employees didn't leave. Their satisfaction levels aligned with those of newer employees who stayed.
+The histogram shows that there are relatively few longer-tenured employees. It's possible that they're the higher-ranking, higher-paid employees.
 
 ### **Insights**
 - Employees in specific departments with high workloads (projects and hours) had higher turnover rates.
