@@ -92,15 +92,19 @@ The classification report above shows that the logistic regression model achieve
 
 
 
-### **Visualizations**
+## **Visualizations**
+
 **EDA Visualizations**
 
 ![boxplot](boxplot_tenure_outliers.png)
 
 
-![projects](number_of_projects.png)
+![tenure](tenure_satisfaction_left.png)
 
-
+Legend:
+- Blue = Stayed
+- Orange = Left
+  
 Employees who left fall into two general categories: dissatisfied employees
 with shorter tenures and very satisfied employees with medium-length tenures.
 Four-year employees who left seem to have an unusually low satisfaction level.
