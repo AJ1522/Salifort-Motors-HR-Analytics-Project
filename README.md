@@ -144,4 +144,8 @@ There doesn't seem to be any department that differs significantly in its propor
 ## **How to Run the Project**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Salifort-Motors-HR-Analytics-Project.git
+   git clone https://github.com/AJ1522/Salifort-Motors-HR-Analytics-Project.git
+2. Open the notebook:
+   - The main analysis is in the HR_Analytics_Project.ipynb file
+3. Dataset:
+   - Place the dataset (Dataset_HR_Project_Capstone.csv) in the same directory as the notebook.
