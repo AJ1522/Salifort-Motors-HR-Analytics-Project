@@ -125,6 +125,8 @@ The plot above shows the following:
 - very few employees who worked the most hours were promoted
 - all of the employees who left were working the longest hours
 
+![bydept](left_vs_stayed_by_dept.png)
+
 
 ### **Insights**
 - Employees in specific departments with high workloads (projects and hours) had higher turnover rates.
