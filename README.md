@@ -149,3 +149,5 @@ There doesn't seem to be any department that differs significantly in its propor
    - The main analysis is in the HR_Analytics_Project.ipynb file
 3. Dataset:
    - Place the dataset (Dataset_HR_Project_Capstone.csv) in the same directory as the notebook.
+4. Run the Notebook:
+   - Use Google Colab or Jupyter Notebook to execute the code
