@@ -98,6 +98,9 @@ The classification report above shows that the logistic regression model achieve
 ![boxplot](boxplot_tenure_outliers.png)
 
 
+![projects](number_of_projects.png)
+
+
 
 
 ### **Insights**
