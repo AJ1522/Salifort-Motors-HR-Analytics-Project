@@ -111,6 +111,21 @@ Four-year employees who left seem to have an unusually low satisfaction level.
 The longest-tenured employees didn't leave. Their satisfaction levels aligned with those of newer employees who stayed.
 The histogram shows that there are relatively few longer-tenured employees. It's possible that they're the higher-ranking, higher-paid employees.
 
+
+
+![salary](salary_tenure.png)
+
+The plots above show that long-tenured employees were not disproportionately comprised of higher-paid employees
+
+
+![promotions](monthly_hours_promotion.png)
+
+The plot above shows the following:
+- very few employees who were promoted in the last five years left
+- very few employees who worked the most hours were promoted
+- all of the employees who left were working the longest hours
+
+
 ### **Insights**
 - Employees in specific departments with high workloads (projects and hours) had higher turnover rates.
 - Employee satisfaction and average monthly hours were significant predictors of departure.
