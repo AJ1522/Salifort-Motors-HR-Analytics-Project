@@ -125,7 +125,9 @@ The plot above shows the following:
 - very few employees who worked the most hours were promoted
 - all of the employees who left were working the longest hours
 
-![bydept](left_vs_stayed_by_dept.png)
+![bydept](stayed_left_by_dept.png)
+
+There doesn't seem to be any department that differs significantly in its proportion of employees who left to those who stayed. 
 
 
 ### **Insights**
