@@ -130,6 +130,11 @@ The plot above shows the following:
 There doesn't seem to be any department that differs significantly in its proportion of employees who left to those who stayed. 
 
 
+**Correlation Heatmap**
+![correlation_heatmap](correlation_heatmap.png)
+
+- The correlation heatmap confirms that the number of projects, monthly hours, and evaluation scores all have some positive correlation with each other, and whether an employee leaves is negatively correlated with their satisfaction level.
+
 ### **Insights**
 - Employees in specific departments with high workloads (projects and hours) had higher turnover rates.
 - Employee satisfaction and average monthly hours were significant predictors of departure.
