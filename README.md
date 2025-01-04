@@ -68,7 +68,20 @@ The Random Forest model outperformed the Decision Tree in all evaluation metrics
 ## **Key Results**
 
 ### **Logistic Regression**
-Classification Report: 
+Confusion Matrix: 
+
+![L Confusion Matrix](logistic_regression_confusion_matrix.png)
+
+The upper-left quadrant displays the number of true negatives. The upper-right quadrant displays the number of false positives. The bottom-left quadrant displays the number of false negatives. The bottom-right quadrant displays the number of true positives
+
+- **True negatives**: The number of people who did not leave that the model accurately predicted did not leave.
+- **False positives**: The number of people who did not leave the model inaccurately predicted as leaving.
+- **False negatives**: The number of people who left that the model inaccurately predicted did not leave.
+- **True positives**: The number of people who left the model accurately predicted as leaving
+
+
+
+Classification Report:
 ![Logistic Regression Classification Report](logitstic_regression_.PNG)
 
 The classification report above shows that the logistic regression model achieved a precision of 79%, recall of 82%, f1-score of 80% (all weighted averages), and accuracy of 82%. However, if it's most important to predict employees who leave, then the scores are significantly lower.
