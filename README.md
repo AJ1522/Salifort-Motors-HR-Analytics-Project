@@ -136,8 +136,27 @@ There doesn't seem to be any department that differs significantly in its propor
 - The correlation heatmap confirms that the number of projects, monthly hours, and evaluation scores all have some positive correlation with each other, and whether an employee leaves is negatively correlated with their satisfaction level.
 
 ### **Insights**
+
+
+## Insights and Recommendations
+**Insights**:
 - Employees in specific departments with high workloads (projects and hours) had higher turnover rates.
-- Employee satisfaction and average monthly hours were significant predictors of departure.
+- Employee satisfaction and average monthly hours were significant predictors of departure
+
+ 
+ **Recommendations**: 
+
+ - Focus on improving employee satisfaction through regular surveys and actionable improvements.
+ - Redistribute project loads evenly to prevent burnout.
+ - Invest in employee development programs to retain top talent.
+
+
+This project demonstrates proficiency in machine learning, EDA, and model evaluation for HR analytics.
+
+**Acknowledgements**: 
+This project was part of the Google Advanced Data Analytics Certificate and inspired by real-world challenges in HR analytics. Source dataset can be found at Kaggle.com
+
+
 
 ---
 
