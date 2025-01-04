@@ -148,7 +148,9 @@ There doesn't seem to be any department that differs significantly in its propor
 
 - The correlation heatmap confirms that the number of projects, monthly hours, and evaluation scores all have some positive correlation with each other, and whether an employee leaves is negatively correlated with their satisfaction level.
 
-### **Insights**
+### **Random Forest V2 Feature Importances**
+
+![rf](rf_2_feature_importances.png)
 
 
 ## Insights and Recommendations
