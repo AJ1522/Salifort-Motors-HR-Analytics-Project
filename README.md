@@ -172,12 +172,13 @@ This project demonstrates proficiency in machine learning, EDA, and model evalua
 
 Additional visualizations generated during the analysis:
 
+- [Dataset Heatmap](images/dataset_heatmap.png): Heatmap to visualize how correlated variables are.
 
 
 **Acknowledgements**: 
 This project was part of the Google Advanced Data Analytics Certificate and inspired by real-world challenges in HR analytics. Source dataset can be found at Kaggle.com
 
-- [Dataset Heatmap](images/dataset_heatmap.png): Heatmap to visualize how correlated variables are.
+
 
 ---
 
