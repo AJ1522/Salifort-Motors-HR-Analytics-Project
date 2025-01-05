@@ -173,6 +173,7 @@ This project demonstrates proficiency in machine learning, EDA, and model evalua
 Additional visualizations generated during the analysis:
 
 - [Dataset Heatmap](images/dataset_heatmap.png): Heatmap to visualize how correlated variables are.
+- [Decision Tree V1 Fit](decision_tree_v1_fit.PNG)
 
 
 **Acknowledgements**: 
