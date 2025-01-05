@@ -176,7 +176,7 @@ Additional visualizations generated during the analysis:
 - [Decision Tree V1 Fit](decision_tree_v1_fit.PNG): Decision Tree V1 model fit. GridSearchCV output.
 - [Decision Tree V2 Fit](decision_tree_v2_fit.PNG): Decision Tree V2 model fit. GridSearchCV output.
 - [Decision Tree V2 Feature Importances](dt2_feature_importances_employees_leaving.png): Decision Tree V2 features importances graph.
-- 
+- [Left vs Stayed by Dept](left_vs_stayed_by_dept.png): Alternative visualization showing employees by dept, left vs stayed. 
 
 
 **Acknowledgements**: 
