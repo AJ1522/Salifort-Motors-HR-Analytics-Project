@@ -177,9 +177,9 @@ Additional visualizations generated during the analysis:
 - [Decision Tree V2 Fit](decision_tree_v2_fit.PNG): Decision Tree V2 model fit. GridSearchCV output.
 - [Decision Tree V2 Feature Importances](dt2_feature_importances_employees_leaving.png): Decision Tree V2 features importances graph.
 - [Left vs Stayed by Dept](left_vs_stayed_by_dept.png): Alternative visualization showing employees by dept, left vs stayed.
-- [Monthly Hours and Last Eval Score](monhly_hours_last_eval_score.png): Shows whether there's a correlation between working long hours and receiving high evaluation score
+- [Monthly Hours and Last Eval Score](monhly_hours_last_eval_score.png): Shows whether there's a correlation between working long hours and receiving a high evaluation score
 - [Avg. Monthly Hours by Promotion Last 5 Years](monthly_hours_promotion.png): Plot to examine relationship between `average_monthly_hours` and
-  'promotion_last_5years'
+  `promotion_last_5years`
 
 
 **Acknowledgements**: 
