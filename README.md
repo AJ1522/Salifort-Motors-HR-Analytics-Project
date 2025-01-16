@@ -4,6 +4,8 @@ Model to predict whether an employee will leave the company based on dataset var
 ## **Overview**
 This project analyzes employee turnover at Salifort Motors, a fictional French-based alternative energy vehicle manufacturer. With a global workforce of over 100,000 employees, the company strives to support employee success and professional development. However, high turnover rates have prompted the leadership team to seek insights into the drivers of employee departure.
 
+This analysis is particularly relevant for organizations seeking to improve employee retention and reduce turnover costs, which are key priorities for HR departments globally.
+
 ## **Objectives**
 
 - Analyze employee data to uncover key factors driving turnover
